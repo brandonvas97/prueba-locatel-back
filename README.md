@@ -13,4 +13,5 @@ Activa el entorno virtual con el siguiente comando: .\env\Scripts\activate
 Ahora toca instalar las dependencias del proyecto, lo puedes realizar con el comando: pip install -r requirements.txt
 
 # Correr el proyecto
-Una vez hecho todo lo anterior, ejecuta el siguiente comando para que el proyecto empiece a funcionar: flask run -p 5001
+Una vez hecho todo lo anterior, ejecuta el siguiente comando para que el proyecto empiece a funcionar: 
+flask run -p 5001
