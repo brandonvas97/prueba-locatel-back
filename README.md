@@ -10,7 +10,7 @@ El back esta realizado con python 3.9 y flask por lo que para correrlo sera nece
 Activa el entorno virtual con el siguiente comando: .\env\Scripts\activate
 
 # Instalar dependencias
-Ahora toca instalar las dependencias del proyecto, lo puedes realizar con el comando: pip install requirements.txt
+Ahora toca instalar las dependencias del proyecto, lo puedes realizar con el comando: pip install -r requirements.txt
 
 # Correr el proyecto
 Una vez hecho todo lo anterior, ejecuta el siguiente comando para que el proyecto empiece a funcionar: flask run -p 5001
