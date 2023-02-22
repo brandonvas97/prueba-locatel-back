@@ -1,4 +1,4 @@
-# Pasos para levantar proyecto bac
+# Pasos para levantar proyecto back
 
 # Base de datos
 La base de datos esta con sqlite, se encuentra en el archivo accounts.sql, no es necesario hacer nada para activarla
